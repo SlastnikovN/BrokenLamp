@@ -1,3 +1,7 @@
+# Description
+
+This game was developed as part of an intensive course from Targem Games.
+Official website - https://targem.ru/
 # Story
 
 French family: father, mother, son (Leon) and daughter (Anna) (12 and 16 years old), lives in the suburbs
